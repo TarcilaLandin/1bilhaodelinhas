@@ -80,6 +80,10 @@ instance/
 .webassets-cache
 
 # Scrapy stuff:
+
+data/measurements.txt
+dashboard/dash_errado.py
+
 .scrapy
 
 # Sphinx documentation
